@@ -35,60 +35,78 @@
     height="30"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
     alt="Logo CSS"/></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
-            alt="Logo React"/></code>
 <code><img 
-       height="30" 
-       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" 
-        alt="Logo SQL"/></code>
-<code><img
-      height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" 
-        alt="Logo Github"/></code>
-<code><img
-      height="30" src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/1311f075-2dec-4948-84fb-35141f587f19"
-      alt="Logo Figma"/></code>
+    height="35" 
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
+    alt="Logo React"/></code>
 <code><img 
-      height="30" src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/e7837414-0e01-45a4-85b6-e67ac489d4ae"
-      alt="Logo Bootstrap"/></code>
+    height="30" 
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" 
+    alt="Logo SQL"/></code>
 <code><img
-      height="30" src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/f3641509-3664-4f58-94fa-fc9eebcd188b"
-      alt="Logo Jest"/></code>
+    height="30" 
+    src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" 
+    alt="Logo Github"/></code>
 <code><img
-        height="30" src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/638442f9-346d-424e-bcc2-0266e1944433"
-        alt="Logo Babel"/></code>
+    height="30" 
+    src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/1311f075-2dec-4948-84fb-35141f587f19"
+    alt="Logo Figma"/></code>
+<code><img 
+    height="30" 
+    src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/e7837414-0e01-45a4-85b6-e67ac489d4ae"
+    alt="Logo Bootstrap"/></code>
+<code><img
+    height="30" 
+    src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/f3641509-3664-4f58-94fa-fc9eebcd188b"
+    alt="Logo Jest"/></code>
+<code><img
+    height="30" 
+    src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/638442f9-346d-424e-bcc2-0266e1944433"
+    alt="Logo Babel"/></code>
  <code><img
-       height="30" src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/f082a1af-c3b2-4ca0-b731-444d3ac58a44"
-       alt="Logo ESLint"/></code>
+    height="30" 
+    src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/f082a1af-c3b2-4ca0-b731-444d3ac58a44"
+    alt="Logo ESLint"/></code>
   <code><img
-        height="30" src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/6fb2cf16-9b5e-4de8-916a-fb764ede2b63"
-        alt="Logo postgreSQL"/></code>
+    height="30" 
+    src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/6fb2cf16-9b5e-4de8-916a-fb764ede2b63"
+    alt="Logo postgreSQL"/></code>
   <code><img
-        height="30" src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/a752be02-fc11-41a3-af36-b69c81a37de7"
-        alt="Logo Postman"/></code>
+    height="30" 
+    src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/a752be02-fc11-41a3-af36-b69c81a37de7"
+    alt="Logo Postman"/></code>
   <code><img
-        height="30" src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/3110ad7f-031b-4d25-a68e-4e4590aa4d47"
-        alt="Logo Rails"/></code>
+    height="30" 
+    src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/3110ad7f-031b-4d25-a68e-4e4590aa4d47"
+    alt="Logo Rails"/></code>
   <code><img
-        height="30" src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/d3611af9-86ff-4e46-8b98-2462fcabb972"
-        alt="Logo React Router"/></code>
+    height="30" 
+    src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/d3611af9-86ff-4e46-8b98-2462fcabb972"
+    alt="Logo React Router"/></code>
   <code><img
-        height="30" src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/9216cbce-c42b-4c97-b4b8-86d6422ac273"
-        alt="Logo Redux"/></code>
+    height="30" 
+    src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/9216cbce-c42b-4c97-b4b8-86d6422ac273"
+    alt="Logo Redux"/></code>
   <code><img
-        height="30" src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/3ac9b973-990b-4a40-a1b9-c8c0f57dd424"
-        alt="Logo Rubocop"/></code>     
+    height="30" 
+    src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/3ac9b973-990b-4a40-a1b9-c8c0f57dd424"
+    alt="Logo Rubocop"/></code>     
   <code><img
-        height="30" src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/c50ba72f-73f5-4e45-85cd-a2857b880ee0"
-        alt="Logo Ruby"/></code>
+    height="30" 
+    src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/c50ba72f-73f5-4e45-85cd-a2857b880ee0"
+    alt="Logo Ruby"/></code>
   <code><img
-        height="30" src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/16657ebc-23a1-4dd8-831b-d88b541b3636"
-        alt="Logo Slack"/></code>
+    height="30" 
+    src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/16657ebc-23a1-4dd8-831b-d88b541b3636"
+    alt="Logo Slack"/></code>
   <code><img
-        height="30" src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/104daad2-138c-4250-9c57-fd73f5d48b9f"
-        alt="Logo Webpack"/></code>
+    height="30" 
+    src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/104daad2-138c-4250-9c57-fd73f5d48b9f"
+    alt="Logo Webpack"/></code>
   <code><img
-        height="30" src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/e09bebc7-805a-4373-9ea2-ad4f0f507737"
-      alt="Logo Zoom"/></code>
+    height="30" 
+    src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/e09bebc7-805a-4373-9ea2-ad4f0f507737"
+    alt="Logo Zoom"/></code>
         
 
 # Status
