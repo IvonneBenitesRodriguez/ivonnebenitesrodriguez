@@ -76,8 +76,7 @@
         alt="Logo Redux"/></code>
   <code><img
         height="30" src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/3ac9b973-990b-4a40-a1b9-c8c0f57dd424"
-        alt="Logo Rubocop"/></code>
-        
+        alt="Logo Rubocop"/></code>     
   <code><img
         height="30" src="https://github.com/IvonneBenitesRodriguez/ivonnebenitesrodriguez/assets/22691013/c50ba72f-73f5-4e45-85cd-a2857b880ee0"
         alt="Logo Ruby"/></code>
