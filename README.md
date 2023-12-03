@@ -111,35 +111,19 @@
 
 # Status
 
-<table>
-  <tr>
-    <td>
-        <img
-          align="left"
-          src="https://github-readme-stats.vercel.app/api?username=IvonneBenitesRodriguez&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-          alt="Github stats"
-          />
-    </td>
-  </tr>
-</table>
-<td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvonneBenitesRodriguez&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=IvonneBenitesRodriguez&theme=dark&hide_border=false"
-        alt="Github stats"
-      />
-    </td>
-  </tr>
-</table>
-  
+
+  [![Ivonne's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvonneBenitesRodriguez&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+# Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvonneBenitesRodriguez&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ 
+
+# Commit Streak
+
+ [![Ivonne's GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=IvonneBenitesRodriguez&theme=tokyonight&fire=FFA500&ring=FFA500)](https://git.io/streak-stats)
+   
 
 
     
