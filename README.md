@@ -111,7 +111,34 @@
 
 # Status
 
-
+<table>
+  <tr>
+    <td>
+        <img
+          align="left"
+          src="https://github-readme-stats.vercel.app/api?username=IvonneBenitesRodriguez&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+          alt="Github stats"
+          />
+    </td>
+  </tr>
+</table>
+<td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvonneBenitesRodriguez&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=IvonneBenitesRodriguez&theme=dark&hide_border=false"
+        alt="Github stats"
+      />
+    </td>
+  </tr>
+</table>
   
 
 
