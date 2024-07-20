@@ -2,11 +2,9 @@
 
 - :butterfly: Very Nice to meet you 
   <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-- 🔭 I’m currently working on Microverse Bootcamp
 - 📫 How to reach me: ivonnebenites2015@gmail.com
 -   Pronouns: She/Her
--  :house: currently based in Peru
+-  :house: currently based in Berlin (Germany)
 -  ⚡ Fun fact: I love to visit bookstores and flower shops
 
 # Languages and tools
