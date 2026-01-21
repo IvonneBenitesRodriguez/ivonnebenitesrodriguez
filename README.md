@@ -6,6 +6,7 @@
 -   Pronouns: She/Her
 -  :house: currently based in Berlin (Germany)
 -  ⚡ Fun fact: I love to visit bookstores and flower shops
+-  🚀 Please visit my portfolio: https://ivonnebenitesrodriguez.github.io/my_portfolio_2025/
 
 # Languages and tools
 
