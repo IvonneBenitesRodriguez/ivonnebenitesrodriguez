@@ -119,10 +119,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvonneBenitesRodriguez&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  
 
-# Commit Streak
-
- [![Ivonne's GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=IvonneBenitesRodriguez&theme=tokyonight&fire=FFA500&ring=FFA500)](https://git.io/streak-stats)
-   
-
 
     
